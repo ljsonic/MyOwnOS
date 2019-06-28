@@ -1,5 +1,7 @@
 
 #include "print.h"
+#include "init.h"
+
 
 int in_a = 5, in_b = 10, out_sum;
 
